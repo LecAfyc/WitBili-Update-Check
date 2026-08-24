@@ -15,8 +15,8 @@
     "releaseTimeName": "2026/08/11"
   },
   "broadcasts": {
-    "releaseTimeStamp": 1787549252123,
-    "expiredTimeStamp": 9999999999999,
+    "releaseTimeStamp": 1787549252,
+    "expiredTimeStamp": 9999999999,
     "contentLines": [
       "你好，这里是一个公告测试！",
       "作者在开学期间是没有时间的，所以可能很长一段时间都不会维护了",
