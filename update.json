@@ -10,9 +10,9 @@
     ]
   },
   "canaryVersionInfo": {
-    "versionCode": 1001005,
-    "versionName": "1.1.5",
-    "releaseTimeName": "2026/08/11"
+    "versionCode": 1001006,
+    "versionName": "1.1.6",
+    "releaseTimeName": "2026/08/24"
   },
   "broadcasts": {
     "releaseTimeStamp": 1787549252,
