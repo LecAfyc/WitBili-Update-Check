@@ -1,12 +1,15 @@
 {
   "latestVersionInfo": {
-    "versionCode": 1001005,
-    "versionName": "1.1.5",
-    "releaseTimeName": "2026/08/11",
+    "versionCode": 1001006,
+    "versionName": "1.1.6",
+    "releaseTimeName": "2026/08/25",
     "descriptionLines": [
-      "WitBiliOH v1.1.5版本，此版本主要为上个版本的严重漏洞的修复",
-      "[修复] 部分动态获取不到评论的回复的Bug",
-      "[修复] 加载动态时崩溃的Bug"
+      "WitBiliOH v1.1.6版本，较上个版本，彻底修复了评论区的所有Bug，并改善了性能",
+      "[新增] 更新检查与公告",
+      "[修复] 评论回复数显示不正确的Bug",
+      "[修复] 评论回复最多显示20条的Bug",
+      "[修复] 专栏评论区ID溢出的Bug",
+      "[修复] 改善了部分场景的UI"
     ]
   },
   "canaryVersionInfo": {
